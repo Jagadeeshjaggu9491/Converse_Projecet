@@ -1,0 +1,540 @@
+/* nav starts  */
+.nav-imp {
+    position: fixed;
+    z-index: 101;
+    width: 100vw;
+    background-color: white;
+}
+
+.nav-img {
+    width: 60%;
+    height: 17px;
+    margin: 0px 0px 0px 66px;
+    position: relative;
+    right: 20px;
+}
+
+.nav-main {
+    margin-right: 18px;
+}
+
+.nav-link {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.fa-search {
+    color: grey;
+    top: 13px;
+    font-weight: 100;
+}
+
+.fa-heart-o {
+    color: black;
+    position: relative;
+    right: 60px;
+}
+
+.nav-icon-heart {
+    font-size: 1.5rem;
+
+}
+
+.nav-icon-cart {
+    font-size: 1.5rem;
+
+}
+
+.fa-shopping-cart {
+    color: black;
+    position: relative;
+    right: 30px;
+}
+
+.btn-nav {
+    position: relative;
+    right: 100px;
+    border-radius: 0px;
+}
+
+.nav-input {
+    padding: 15px 30px;
+    border-radius: 0px;
+
+}
+
+/* nav ends  */
+/* Banner-1 starts */
+.ban1-imp {
+    padding-top: 73px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.ban1-content {
+    margin-top: 350px;
+}
+
+.ban1-content a {
+    color: white;
+    text-decoration: none;
+}
+
+.ban1-content h1 {
+    font-weight: bold;
+}
+
+.available {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+}
+
+.converse {
+
+    display: flex;
+    justify-content: center;
+}
+
+.x-one {
+    display: flex;
+    justify-content: center;
+    bottom: 45px;
+    position: relative;
+}
+
+.patta {
+    position: relative;
+    bottom: 90px;
+}
+
+.ban1-content p {
+    font-size: .9rem;
+    position: relative;
+    left: 26px;
+    bottom: 70px;
+}
+
+.four {
+    position: relative;
+    left: 90px;
+}
+
+.ban1-btn {
+    position: relative;
+    left: 154px;
+    bottom: 59px;
+    border: none;
+}
+
+.ban1-btn a {
+    color: black;
+
+}
+
+.ban1-btn:hover {
+    background-color: black;
+    border: white;
+}
+
+.ban1-btn a:hover {
+    color: white;
+}
+
+.ban1-img:hover {
+    opacity: .8;
+}
+
+/* Banner-1 ends */
+/* Banner-2 starts */
+.ban2-imp {
+    margin-top: 20px;
+}
+
+.banner2-content {
+    position: absolute;
+    right: 90px;
+    top: 750px;
+}
+
+.banner2-content h1 {
+    font-weight: bold;
+
+}
+
+.x {
+    position: relative;
+    left: 260px;
+}
+
+.A {
+    position: relative;
+    left: 160px;
+}
+
+.ban2-para {
+    position: absolute;
+    left: 92px;
+    font-size: .9rem;
+}
+
+.banner2-btn {
+    position: relative;
+    left: 360px;
+    top: 84px;
+    border: none;
+    background-color: black;
+    padding: 3px 10px;
+}
+
+.banner2-btn:hover {
+    background-color: #fff;
+    border: none;
+}
+
+.banner2-btn a:hover {
+    color: black;
+}
+
+.banner2-btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.ban2-img:hover {
+    opacity: .8;
+}
+
+/* Banner-2 ends */
+
+/* style starts */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.style-start a {
+    text-decoration: none;
+    color: black;
+}
+
+.style-img-name {
+    position: relative;
+    bottom: 40px;
+    left: 35px;
+    font-size: small;
+    font-weight: 500;
+}
+
+.style-img img:hover {
+    opacity: .8;
+}
+
+.style-img a {
+    text-decoration: none;
+    color: black;
+}
+
+.style-img img {
+    display: flex;
+}
+
+/* style ends */
+/* new arrivals starts */
+
+.arrivals-img {
+    display: flex;
+}
+
+
+.arrivals h4 a {
+    text-decoration: none;
+    color: black;
+}
+
+.arrivals-img a:hover {
+    opacity: .8;
+}
+
+/* new arrivals ends */
+/* banner-3 starts */
+.ban3-img a:hover {
+    opacity: .8;
+}
+
+.ban3-content {
+    position: relative;
+    bottom: 380px;
+}
+
+.ban3-content h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: white;
+}
+
+.ban3-para{
+    font-size: smaller;
+    font-weight: 500;
+    color: white;
+}
+
+.ban3-content button a {
+    text-decoration: none;
+    color: black;
+}
+
+.ban3-content button {
+    border: none;
+    background-color: white;
+    width: 100px;
+    height: 37px;
+}
+
+.ban3-content button:hover {
+    background: #000;
+}
+
+.ban3-content button a:hover {
+    color: white;
+}
+
+/* banner-3 ends */
+/* banner-4 starts */
+.ban4-main {
+    /* position: relative;
+    bottom: 190px; */
+}
+.ban4-img a:hover {
+    opacity: .8;
+}
+.ban4-content{
+    position: relative;
+    bottom: 490px;
+    color: white;
+}
+.ban4-content button a {
+    text-decoration: none;
+    color: black;
+}
+
+.ban4-content button {
+    border: none;
+    background-color: white;
+    width: 100px;
+    height: 37px;
+}
+
+.ban4-content button:hover {
+    background: #000;
+}
+
+.ban4-content button a:hover {
+    color: white;
+}
+
+/* banner-4 ends */
+
+/* banner-5 starts */
+/* .ban5-main {
+    position: relative;
+    bottom: 364px;
+} */
+
+.ban5-main img:hover {
+    opacity: .8;
+}
+.ban5-content{
+    position: relative;
+    bottom: 150px;
+    color: black;
+}
+.ban5-content button a {
+    text-decoration: none;
+    color: black;
+    
+}
+.ban5-content button {
+    border: none;
+    background-color: white;
+    width: 100px;
+    height: 37px;
+    border: 1px solid black;
+}
+.ban5-content h2{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+.ban5-content button:hover {
+    background: #000;
+}
+
+.ban5-content button a:hover {
+    color: white;
+}
+
+/* banner-5 ends */
+/* banner-6 starts */
+/* .ban6-main {
+    position: relative;
+    bottom: 600px;
+} */
+.ban6-main{
+    position: relative;
+    
+}
+.ban6-main p {
+    position: absolute;
+    left: 170px;
+    color: black;
+    bottom: 126px;
+}
+
+.lat-news {
+    left: 47px;
+    position: absolute;
+}
+
+.ban6-main button {
+    position: relative;
+    left: 270px;
+    bottom: 55px;
+    background-color: black;
+    color: white;
+    font-size: 0.9rem;
+    height: 40px;
+    border: none;
+    width: 164px;
+}
+
+.ban6-main button:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.ban6-main img:hover {
+    opacity: .8;
+}
+
+/* banner-6 ends */
+/* footer starts */
+.footer-main {
+    background-color: black;
+    color: white;
+
+}
+
+.foot {
+    margin: 0px;
+
+}
+
+.footer-main .col-3 {
+    border: 1px solid grey;
+    padding: 42px 10px;
+}
+
+.footer-main h6 {
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.footer-main p {
+    font-size: small;
+}
+
+.footer-main input {
+    font-size: .9rem;
+    width: 205px;
+    height: 35px;
+    padding-left: 10px;
+}
+
+.fa-long-arrow-right {
+    border: 1px solid black;
+    position: relative;
+    padding: 9px 17px;
+    right: 5px;
+    background-color: white;
+    color: black;
+}
+
+.fa-long-arrow-right:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+.foot-icon {
+    padding: 12px 21px;
+    border: 1px solid;
+    color: white;
+    position: relative;
+    top: 16px;
+}
+
+.foot-icon:hover {
+    background-color: white;
+    color: black;
+}
+
+.foot-gift {
+    line-height: 24px;
+}
+
+.fot {
+    padding-left: 34px;
+}
+
+.contact {
+    list-style: none;
+    font-size: .7rem;
+    line-height: 23px;
+}
+
+.contact a {
+    color: grey;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.get {
+    position: relative;
+    left: 29px;
+}
+
+.carrers {
+    list-style: none;
+    font-size: .7rem;
+    line-height: 23px;
+}
+
+.carrers a {
+    color: grey;
+    text-decoration: none;
+}
+
+.carrers a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.about {
+    position: relative;
+    left: 29px;
+}
+
+/* footer ends */

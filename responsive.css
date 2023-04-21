@@ -1,0 +1,523 @@
+/* For Mobile Devices: 320px-480px */
+@media (min-width: 320px) and (max-width: 480px) {
+
+    /* nav starts */
+    .nav-imp {
+        padding-bottom: 10px;
+        width: 460px;
+        right: 1px;
+    }
+
+    .nav-toggler {
+        position: relative;
+        border: none;
+        top: 3px;
+        right: 245px;
+    }
+
+    .fa-heart-o {
+        position: relative;
+        left: 0px;
+    }
+
+    .nav-icon-heart {
+        font-size: 1.2rem;
+    }
+
+    .nav-icon-cart {
+        font-size: 1.2rem;
+    }
+
+    .fa-shopping-cart {
+        position: relative;
+        left: 0px;
+    }
+
+    .nav-input {
+        width: 460px;
+        right: 12px;
+        bottom: -16px;
+    }
+
+    .nav-img {
+        position: relative;
+        width: 122px;
+        left: 68px;
+    }
+
+    .nav-search {
+        visibility: hidden;
+    }
+
+    .btn-nav {
+        right: 10px;
+    }
+
+    /* nav ends */
+    /* ban-1 starts */
+    .ban1-img {
+        display: none;
+    }
+
+    .ban1-imp {
+        width: 453px;
+        height: 565px;
+        background-image: url(./assets/small1.jpg);
+        position: relative;
+        top: 112px;
+        right: 11px;
+
+    }
+
+    .ban1-content {
+        margin-top: 790px;
+    }
+
+    .ban1-content h6,
+    h1,
+    p {
+        color: black;
+    }
+
+    .clover {}
+
+    .patta {
+        left: 46px;
+    }
+
+    .four {
+        left: 0px;
+    }
+
+    .ban1-para {
+        width: 377px;
+    }
+
+    .ban1-content h1 {
+        line-height: 40px;
+    }
+
+    .ban1-btn {
+        background-color: black;
+        border: none;
+    }
+
+    .ban1-btn a {
+        color: white;
+    }
+
+    /* ban-1 ends */
+
+    .banner2-content {
+        /* visibility: hidden; */
+    }
+
+    .banner2-btn {
+        position: absolute;
+        left: 187px;
+        top: 195px;
+    }
+
+    .one {
+        left: 64px;
+        position: relative;
+        bottom: 40px;
+    }
+
+    .A {
+
+        left: 117px;
+        bottom: 16px;
+
+    }
+
+    .x {
+        position: relative;
+        left: 150px;
+        bottom: 30px;
+    }
+
+    .ban2-para {
+        position: relative;
+        left: 48px;
+    }
+
+    .ban2-img {
+        visibility: hidden;
+    }
+
+    .ban2-imp {
+        background: url(./assets/s2.jpg);
+        position: relative;
+        top: 458px;
+        width: 453px;
+        height: 683px;
+        right: 12px;
+        /* overflow-y: hidden; */
+    }
+
+    /* style starts */
+    .style {
+        position: relative;
+        top: 760px;
+    }
+
+    .style img {
+        position: relative;
+        left: 80px;
+    }
+
+    .style-img-name {
+        position: relative;
+        left: 90px;
+    }
+
+    .style-start h4 {
+        position: relative;
+        left: 140px;
+    }
+
+    /* style ends */
+
+    /* arrivals starts */
+    .arrivals {
+        top: 773px;
+        position: relative;
+        left: 75px;
+    }
+
+    .arrivals h4 {
+        left: 60px;
+        position: relative;
+    }
+
+
+    /* arrivals ends */
+
+    /* ban-3 starts */
+    .ban-3 {
+        top: 794px;
+        right: 11px;
+        position: relative;
+        background-image: url(./assets/small\ banner.jpg);
+        width: 453px;
+        height: 630px;
+        background-size: cover;
+    }
+
+    .ban3-img {
+        visibility: hidden;
+    }
+
+    .ban3-content {
+        top: 508px;
+    }
+
+    .ban3-content h2,
+    p {
+        color: black;
+    }
+
+    .ban3-para {
+        color: black;
+    }
+
+    .ban-3 button {
+        background-color: black;
+
+    }
+
+    .ban-3 button a {
+        color: white;
+    }
+
+    /* ban-3 ends */
+
+    /* ban-4 starts */
+    .ban4-main {
+        position: relative;
+        top: 1073px;
+        background-image: url(./assets/small4.jpg);
+        width: 453px;
+        background-size: cover;
+        right: 11px;
+        height: 797px;
+    }
+
+    .ban4-img {
+        visibility: hidden;
+    }
+
+    .ban4-content h2 {
+        font-weight: 700;
+        font-size: xx-large;
+    }
+
+    .ban4-content {
+        position: relative;
+        top: 645px;
+    }
+
+    .ban4-content button {
+        background-color: black;
+
+    }
+
+    .ban4-content h2 {
+        color: black;
+    }
+
+    .ban4-content button a {
+        color: white;
+    }
+
+    /* ban-4 ends */
+    /* ban-5 starts */
+    .ban5-main {
+        /* display: none; */
+        position: relative;
+        top: 1375px;
+        background-image: url(./assets/small5.jpg);
+        background-size: cover;
+        width: 449px;
+        right: 11px;
+        height: 600px;
+    }
+
+    .ban5-main img {
+        display: none;
+    }
+
+    .ban5-content {
+        position: relative;
+        top: 620px;
+        color: black;
+    }
+
+    .ban5-content button {
+        background-color: black;
+    }
+
+    .ban5-content button a {
+        color: white;
+    }
+
+    /* ban-5 ends */
+
+    /* ban-6 starts */
+    .ban6-main {
+        position: relative;
+        top: 1650px;
+        background-image: url(./assets/banner-6.jpg);
+        background-size: cover;
+        width: 453px;
+        right: 11px;
+        height: 700px;
+    }
+
+    .ban6-main img {
+        display: none;
+    }
+    .ban6-main button{
+        left: 140px;
+    }
+    .ban6-main p{
+        position: absolute;
+        top: 725px;
+        left: 25px;
+    }
+    .ban6-main button{
+        position: absolute;
+        top: 800px;
+    }
+
+    /* ban-6 ends */
+    /* footer starts */
+    .footer-main {
+        display: none;
+    }
+
+    /* footer ends */
+}
+
+
+
+
+/* For Tablets of iPad: 481px-768px */
+@media (min-width: 481px) and (max-width: 768px) {
+    .nav-toggler {
+        position: relative;
+        right: 284px;
+        border: none;
+    }
+
+    .fa-heart-o {
+        position: relative;
+        right: 0px;
+    }
+
+    .nav-icon-heart {
+        font-size: 1.7rem;
+    }
+
+    .nav-icon-cart {
+        font-size: 1.7rem;
+    }
+
+    .fa-shopping-cart {
+        position: relative;
+        left: 15px;
+    }
+
+    .nav-input {
+        width: 509px;
+        top: 10px;
+        right: 10px;
+    }
+
+    .nav-img {
+        position: relative;
+        width: 200px;
+        left: 43px;
+        height: 22px;
+    }
+
+    .nav-search {
+        top: 65px;
+        left: 450px;
+    }
+
+    .btn-nav {
+        right: 10px;
+    }
+
+    /* banner1-starts */
+    /* banner1-ends */
+}
+
+/* For laptop or small-size devices: 769px-1024px */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .nav-toggler {
+        position: relative;
+        right: 366px;
+        border: none;
+    }
+
+    .fa-heart-o {
+        position: relative;
+        left: 43px;
+    }
+
+    .nav-icon-heart {
+        font-size: 1.7rem;
+    }
+
+    .nav-icon-cart {
+        font-size: 1.7rem;
+    }
+
+    .fa-shopping-cart {
+        position: relative;
+        right: 10px;
+    }
+
+    .nav-input {
+        width: 764px;
+        top: 10px;
+        right: 8px;
+    }
+
+    .nav-img {
+        position: relative;
+        width: 200px;
+        left: 180px;
+        height: 22px;
+    }
+
+    .nav-search {
+        top: 65px;
+    }
+
+    .btn-nav {
+        right: 10px;
+    }
+}
+
+/* For Desktop or larg- size devices: 1025px-1200px */
+@media (min-width: 1025px) and (max-width: 1200px) {
+
+    /* nav starts  */
+    .nav-img {
+        width: 60%;
+        height: 17px;
+        margin: 0px 0px 0px 66px;
+        position: relative;
+        right: 68px;
+    }
+
+    .nav-main {
+        /* background-color: yellowgreen; */
+    }
+
+    .nav-link {
+        font-size: 0.9rem;
+        font-weight: 500;
+
+    }
+
+    .navbar-nav {
+        /* position: relative;
+    margin-right: 10px; */
+    }
+
+    .nav-link:hover {
+        text-decoration: underline;
+    }
+
+    .fa-search {
+        color: grey;
+        top: 13px;
+        font-weight: 100;
+    }
+
+    .fa-heart-o {
+        color: black;
+        position: relative;
+        right: 60px;
+    }
+
+    .nav-icon-heart {
+        font-size: 1.5rem;
+
+    }
+
+    .nav-icon-cart {
+        font-size: 1.5rem;
+
+    }
+
+    .fa-shopping-cart {
+        color: black;
+        position: relative;
+        right: 30px;
+    }
+
+    .btn-nav {
+        position: relative;
+        right: 100px;
+        border-radius: 0px;
+    }
+
+    .nav-input {
+        padding: 15px 30px;
+        border-radius: 0px;
+        color: white;
+    }
+
+    .navbar-nav {
+        margin-right: 10px;
+    }
+
+    /* nav ends  */
+
+}
